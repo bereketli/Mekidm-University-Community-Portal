@@ -1,1 +1,1 @@
-hi this is test for github
+iam cloning readme text from github
